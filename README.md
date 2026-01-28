@@ -75,26 +75,27 @@ ask-her-out/
 
 🎨 Customization
 
-Edit text inside HTML files to personalize the message
+- Edit text inside HTML files to personalize the message
 
-Replace images in assets/images/
+- Replace images in assets/images/
 
-Modify colors and animations in css/style.css
+- Modify colors and animations in css/style.css
 
-Adjust button behavior in js/script.js
+- Adjust button behavior in js/script.js
+  
+---
 
 ⚠️ Disclaimer
 
 This project is created for fun, learning, and entertainment purposes only.
 Please use responsibly and respectfully 😄
 
+---
+
 👨‍💻 Author
 
 Johnny
 Made with ❤️, patience, and a little bit of drama 😌
-
-
----
 
 ✅ Just paste this into `README.md`  
 ✅ Commit & push  
